@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px;
+    border-style:ridge;
+    max-width: 25vw;
+    height: 25vw;
+    margin: auto;
+}
+.pixel {
+    border: 1px;
+    border-style: solid;
+    border-color: red;
+    margin: 0px;
+}
